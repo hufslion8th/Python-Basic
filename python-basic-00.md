@@ -2,13 +2,13 @@
 
 안녕하세요! 멋쟁이사자처럼 운영진 박영준입니다.
 
-강의 개요를 먼저 설명할게요!
+html과 마찬가지로 강의 개요를 먼저 설명할게요!
 
 ## 누구를 위한 강의인가?
 
 > 프로그래밍을 한번도 접한적이 없는 사람!!
 
-단순히 파이썬 문법만을 전달하는 강의가 아니라 컴퓨터와 어떤 방식으로 커뮤니케이션을 하는지 알아보는 강의 입니다. 파이썬이라는 언어는 그 과정을 거들 뿐.
+단순히 파이썬 문법만을 전달하는 강의가 아니라 컴퓨터와 어떤 방식으로 커뮤니케이션을 하는지 알아보는 강의 입니다.
 
 ## 당부의 말
 
@@ -35,7 +35,8 @@
 1. 자신의 운영체제 버전에 맞는 python을 다운받아 설치합니다.
 2. (중요) Add Python 3.7 to PATH를 체크하고 설치합니다.
 
-    ![img](./img/0.python-version.png)
+    ![img](img/0.python-version.png)
+
 
     # Python 참고자료
 
@@ -47,17 +48,16 @@
 
     [https://pythonclock.org/](https://pythonclock.org/)
 
-    수명이 1년 정도 남은 시한부 인생입니다.. 잘가요 python2..
 
     ## Python 패키지들
 
     [Python 3 Readiness - Python 3 support table for most popular Python packages](http://py3readiness.org/)
 
-    많이 활용되는 파이썬 패키지들 리스트입니다. 앞으로 공부하면서 여기 있는 패키지들 중 얼마나 공부하게 될까요.
+    많이 활용되는 파이썬 패키지들 리스트입니다.
 
     ## Python Document
 
-    [3.7.1 Documentation](https://docs.python.org/3/)
+    [3.8.3 Documentation](https://docs.python.org/3/)
 
     ## Python 연습
 
