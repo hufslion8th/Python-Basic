@@ -17,3 +17,7 @@
 [3. 자료형(1)](python-basic-03(1).md)   
 
 [4. 자료형(2)](python-basic-03(2).md)   
+
+#### 🔥 과제
+
+[Assignment1 - 20.06.05(금) 23:59까지](Code/Assignment.md)
