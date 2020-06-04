@@ -13,7 +13,7 @@ n = int(input())
 
 for i in range(n):
     print("■ " * n)
-
+    
 
 # 3번 문제: 문자열 실습(2)
 address = "용인시 처인구 모현읍"
