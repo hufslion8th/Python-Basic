@@ -11,8 +11,10 @@ print("현재 엘리베이터의 허용 무게는 ",Current_Weight,"kg 입니다
 # 2번 문제
 
 count = int(input("입력 : "))
-for i in range(1,count+1):
-    print("■ "*count) 
+
+print(("■ " *count + "\n")*count)
+# for i in range(1,count+1):
+#     print("■ "*count) 
 
 
 # #3번 문제
