@@ -12,10 +12,13 @@
 
 [2. 입력과 출력](python-basic-02.md)   
 
-### 20.05.28 Python 두번째 세션
+### 20.06.04 Python 두번째 세션
 
 [3. 자료형(1)](python-basic-03(1).md)   
 
 [4. 자료형(2)](python-basic-03(2).md)   
 
-영준이형 잘생겼어요
+=======
+#### 🔥 과제
+
+[Assignment1 - 20.06.05(금) 23:59까지](Code/Assignment.md)
