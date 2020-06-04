@@ -1,3 +1,4 @@
+# 02. 입력과 출력
 실습에 앞서 바탕화면에 `MYPROJECT` 라는 폴더를 만들어 줍시다.
 
 ![img](img/2.python-basic-01.png)
