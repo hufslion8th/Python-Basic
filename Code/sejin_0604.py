@@ -20,9 +20,9 @@ print(("■ " *count + "\n")*count)
 # #3번 문제
 address = "용인시 처인구 모현읍"
 
-print("시" , str[0:3])
-print("구", str[4:7])
-print("읍", str[9:11])
+print("시" , address[0:3])
+print("구", address[4:7])
+print("읍", address[9:11])
 
 #4번 문제
 life = "life is too short you need Tython"
