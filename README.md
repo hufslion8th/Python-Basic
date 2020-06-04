@@ -22,5 +22,3 @@
 
 [Assignment1 - 20.06.05(금) 23:59까지](Code/Assignment.md)
  
- 야 너 print할 때 숫자안나와
- 
