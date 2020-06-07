@@ -1,4 +1,4 @@
-# Assignment
+# Assignment1
 
 1. 현재 repository에서 `본인 이름의 branch`를 영문으로 만들어주세요.
 2. Code 폴더 안에 `본인 이름의 py 파일`을 영문으로 만들어주세요.
