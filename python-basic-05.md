@@ -12,7 +12,7 @@
 
 ## 함수의 정의
 
-![image](img\5.funtion(1).png)
+![image](img/5.function(1).png)
 
 > 수학익힘책에서 많이 봤던 그림
 
