@@ -5,7 +5,7 @@
 "멋있어요" * 4 
 
 # 0 1 2 3 4
-# h e l l o
+# h e l l o＿＿￦￦
 
 str = "hello world"
 
