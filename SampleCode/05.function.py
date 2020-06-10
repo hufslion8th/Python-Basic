@@ -6,6 +6,14 @@ def plusOne(x):
 mayBeSix = plusOne(5)
 print(mayBeSix)
 
+print('##############################################')
+
+def plus(x,y):
+    return x+y
+
+x = plus(10, 20)
+print(x)
+
 
 # 전역변수, 지역변수 이해하기
 
