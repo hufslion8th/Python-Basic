@@ -27,3 +27,4 @@ else:
 #             print("컵라면 먹자")
 #         else:
 #             print("공깃밥 가즈아ㅏㅏㅏ")
+# else if = elif
