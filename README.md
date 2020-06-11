@@ -44,6 +44,10 @@
 ---
 
 
-#### 🔥 과제
+### 🔥 과제
 
-[Assignment1 - 20.06.05(금) 23:59까지](Code/Assignment.md)
+#### Assignment1
+[Python 문법 익히기 - 20.06.05(금) 23:59까지](Assignment1/Assignment1.md)  
+
+#### Assignment2
+[로또 번호 생성하기 - 20.06.14(일) 23:59까지](Assignment2/Assignment2.md)  
