@@ -53,7 +53,7 @@ for 반복제어변수 in 반복대상 :
  이렇게 내용을 하나하나 반복하며 실행해 주는 변수를 **반복제어변수**라고 합니다.
 
 ```python
-for score in [96,98,100,87]
+for score in [96,98,100,87]:
 	print(score)
 
 -----------------결과-----------------
@@ -70,6 +70,7 @@ for score in [96,98,100,87]
 ### for문에서 유용한 range함수
 
 ```python
+sum = 0
 for i in range(5):
 	sum += i
 ```
@@ -93,7 +94,7 @@ for i in range(5):
 num = 10
 while(num > 0):
 	print("반복문 수행 중!")
-	num--
+	num-=1
 
 -----------------결과-----------------
 10
@@ -119,7 +120,7 @@ while(num > 0):
 ```python
 num = 0
 
-while(true):
+while(True):
 	num += 1
 	if(num>10):
 		break
